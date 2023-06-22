@@ -14,4 +14,4 @@
 <sub> *“Just wanna to be MC IRL.” – Itsuka* </sub>
 <br/>
 <img scr="./banner.jpeg" width="400" />
-</div>
+<br/>
