@@ -6,12 +6,9 @@
 <br/>
   
 - Name **Itsuka**
-
 - Iam 17 Y.O
-
-- Have high experience with **Photoshop** and **After Effects**
-  
-- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
+- I'm just having fun being an otaku!
+- Understand Japanese, Indonesian, and English.
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
