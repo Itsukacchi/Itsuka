@@ -13,6 +13,8 @@
 <br/>
 <sub> *“Just wanna to be MC IRL.” – Itsuka* </sub>
 <!--
-<img src="./banner.jpeg" width="400" /><br/>
+<br/>
+<img src="./banner.jpeg" width="400" />
+<br/>
 -->
 </div>
