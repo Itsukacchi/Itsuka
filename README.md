@@ -1,7 +1,7 @@
 <div>
 <img src="./profile-photo.png" width="300" align="right" />
 <br/>
-<img src="./about-me.png" width="400" />
+<img src="./about-me.png" width="500" />
 <br/>
 <br/>
   
