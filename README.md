@@ -9,7 +9,7 @@
 - Iam 17 Y.O
 - I'm just having fun being an otaku!
 - Understand Japanese, Indonesian, and English.
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./banner.png" width="500" /><br/>
   
 <sub> *“Just wanna to be MC IRL.” – Itsuka* </sub>
 <!--
