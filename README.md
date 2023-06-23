@@ -11,7 +11,7 @@
 - Ayaka Main BTW
 
 <br/>
-<sub> *“Just wanna to be MC IRL.” – Itsuka* </sub>
+<sub> *“Just wanna be MC IRL.” – Itsuka* </sub>
 <br/>
 <img scr="./banner.jpeg" width="400" />
 <br/>
