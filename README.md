@@ -5,13 +5,13 @@
 <br/>
 <br/>
   
-- Name **Itsuka**
-- I'm just having fun being an otaku!
+- Name: **Itsuka**
+- Age : **17**
 - Understand Japanese, Indonesian, and English.
-- Ayaka Main BTW
+- I like listening to songs and watching anime
 
 <br/>
-<sub> *“Just wanna be MC IRL.” – Itsuka* </sub>
+<sub> **“Keep Alive and Try to Be Better”** – Itsuka </sub>
 <br/>
 <img scr="./banner.jpeg" width="400" />
 <br/>
