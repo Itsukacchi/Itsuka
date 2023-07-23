@@ -1,6 +1,8 @@
 <div>
 <img src="./profile-photo.png" width="300" align="right" />
 <br/>
+<sub> Megumi Kato </sub>
+<br/>
 <img src="./about-me.png" width="500" />
 <br/>
 <br/>
@@ -11,7 +13,9 @@
 - I like listening to songs and watching anime
 
 <br/>
-<sub> **“Keep Alive and Try to Be Better”** – Itsuka </sub>
+<sub> "It’s not like I want something like a confession.
+I’m fine with a chance to fall in love, just a little.
+I just want simple, casual words. Words that can make one say, “ah, so I could fall in love just like that…” -Megumi Kato </sub>
 <br/>
 <img scr="./banner.jpeg" width="400" />
 <br/>
