@@ -1,7 +1,6 @@
 <div>
 <img src="./profile-photo.png" width="300" align="right" />
 <br/>
-<sub> Megumi Kato align="right" </sub>
 <br/>
 <img src="./about-me.png" width="500" />
 <br/>
