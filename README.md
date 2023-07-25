@@ -10,6 +10,7 @@
 - Age : **17**
 - Understand Japanese, Indonesian, and English.
 - I like listening to songs and watching anime
+- <p><a href="https://youtu.be/Ct-60mD5yjE">My Fav Music</a><p>
 
 <br/>
 <sub> "It’s not like I want something like a confession.
